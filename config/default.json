@@ -4,7 +4,8 @@
             "apiVersion": "2017-10-25",
             "accessKeyId": "AKIAZETESTTESTELHO",
             "secretAccessKey": "Gt2aTESTTESTTESTTEST8jQoGt1/R+Gy3Q15x8vN23",
-            "region": "us-east-1"
+            "region": "us-east-1",
+	    "hostname": "https://ce.us-east-1.amazonaws.com"
         }
     },
     "CACHE": {
